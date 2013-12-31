@@ -17,7 +17,7 @@
     "url": "https://github.com/adjohnson916/rivets-server/issues"
   },
   "dependencies": {
-    "rivets": "git://github.com/adjohnson916/rivets#2bbce5611bac27ec",
+    "rivets": "git://github.com/adjohnson916/rivets#8056f2134a3e22",
     "jsdom": "~0.8.10"
   },
   "devDependencies": {
